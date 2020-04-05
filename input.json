@@ -1,0 +1,74 @@
+{
+    "nombre": "Sistema Solar",
+    "estrella": {
+        "nombre": "sol",
+        "masa": 1.9891e+30,
+        "radio": 6.9551e+08
+    },
+    "planetas": [
+        {
+            "nombre": "mercurio",
+            "masa": 3.302e+23,
+            "radio": 2439.7e+03,
+            "semiejemayor": 57909036552.2,
+            "excentricidad": 0.20563069,
+            "theta": 0
+        },
+        {
+            "nombre": "venus",
+            "masa": 4.869e+24,
+            "radio": 6051.8e+03,
+            "semiejemayor": 1.08208179e+11,
+            "excentricidad": 0.00677323,
+            "theta": 0
+        },
+        {
+            "nombre": "tierra",
+            "masa": 0,
+            "radio": 0,
+            "semiejemayor": 149598261e+03,
+            "excentricidad": 0.01671123,
+            "theta": 0
+        },
+        {
+            "nombre": "marte",
+            "masa": 0,
+            "radio": 0,
+            "semiejemayor": 227392100e+03,
+            "excentricidad": 0.01671123,
+            "theta": 0
+        },
+        {
+            "nombre": "jupiter",
+            "masa": 0,
+            "radio": 0,
+            "semiejemayor": 7.78547262e+11,
+            "excentricidad": 0.04839266,
+            "theta": 0
+        },
+        {
+            "nombre": "saturno",
+            "masa": 0,
+            "radio": 0,
+            "semiejemayor": 1.43344937e+12,
+            "excentricidad": 0.05648,
+            "theta": 0
+        },
+        {
+            "nombre": "urano",
+            "masa": 0,
+            "radio": 0,
+            "semiejemayor": 2.876679082e+12,
+            "excentricidad": 0.044405586,
+            "theta": 0
+        },
+        {
+            "nombre": "neptuno",
+            "masa": 0,
+            "radio": 0,
+            "semiejemayor": 4503443661e+03,
+            "excentricidad": 0.00858587,
+            "theta": 0
+        }
+    ]
+}
